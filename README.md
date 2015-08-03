@@ -1,12 +1,10 @@
 # Rainforest Node Bindings
 
 
-
 ## Installation
 
-
 ```bash
-npm install rainforest
+npm install rainforestqa
 ```
 
 ## Documentation
