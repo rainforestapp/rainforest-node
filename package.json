@@ -1,7 +1,7 @@
 {
   "name": "rainforestqa",
-  "version": "0.0.1",
-  "description": "Rainforest API Library. See https://docs.rainfroestqa.com for more details.",
+  "version": "0.0.2",
+  "description": "Rainforest API Library. See https://docs.rainforestqa.com for more details.",
   "homepage": "https://www.rainforestqa.com/",
   "author": "Apibits.com <libraries@apibits.com>",
   "contributors": [
